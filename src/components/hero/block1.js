@@ -14,7 +14,7 @@ export default function ComponentShowcase() {
     }
   };
 
-  const componentCode = `"use client";
+  const componentCode = `&quot;use client&quot;;
 
 import { useState, useRef } from 'react';
 
